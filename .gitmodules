@@ -1,0 +1,4 @@
+[submodule "server/rdf-dataset-fragmenter.js"]
+	path = server/rdf-dataset-fragmenter.js
+	url = https://github.com/constraintAutomaton/rdf-dataset-fragmenter.js.git
+	branch = feature/multiple-vocab
