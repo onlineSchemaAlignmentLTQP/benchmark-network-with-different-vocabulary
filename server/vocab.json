@@ -197,7 +197,7 @@
           "termType": "NamedNode"
         },
         "inference": {
-          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "value": "http://www.w3.org/2002/07/owl#equivalentClass",
           "termType": "NamedNode"
         },
         "conclusion": {
@@ -222,7 +222,7 @@
           "termType": "NamedNode"
         },
         "inference": {
-          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "value": "http://www.w3.org/2002/07/owl#equivalentClass",
           "termType": "NamedNode"
         },
         "conclusion": {
@@ -248,7 +248,7 @@
           "termType": "NamedNode"
         },
         "inference": {
-          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "value": "http://www.w3.org/2002/07/owl#equivalentClass",
           "termType": "NamedNode"
         },
         "conclusion": {
@@ -264,7 +264,7 @@
           "termType": "NamedNode"
         },
         "inference": {
-          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "value": "http://www.w3.org/2004/02/skos/core#exactMatch",
           "termType": "NamedNode"
         },
         "conclusion": {
@@ -278,7 +278,7 @@
           "termType": "NamedNode"
         },
         "inference": {
-          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "value": "http://www.w3.org/2004/02/skos/core#exactMatch",
           "termType": "NamedNode"
         },
         "conclusion": {
@@ -292,7 +292,7 @@
           "termType": "NamedNode"
         },
         "inference": {
-          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "value": "http://www.w3.org/2004/02/skos/core#exactMatch",
           "termType": "NamedNode"
         },
         "conclusion": {
@@ -306,7 +306,7 @@
           "termType": "NamedNode"
         },
         "inference": {
-          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "value": "http://www.w3.org/2004/02/skos/core#exactMatch",
           "termType": "NamedNode"
         },
         "conclusion": {
@@ -320,7 +320,7 @@
           "termType": "NamedNode"
         },
         "inference": {
-          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "value": "http://www.w3.org/2004/02/skos/core#exactMatch",
           "termType": "NamedNode"
         },
         "conclusion": {
@@ -334,7 +334,7 @@
           "termType": "NamedNode"
         },
         "inference": {
-          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "value": "http://www.w3.org/2004/02/skos/core#exactMatch",
           "termType": "NamedNode"
         },
         "conclusion": {
@@ -348,7 +348,7 @@
           "termType": "NamedNode"
         },
         "inference": {
-          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "value": "http://www.w3.org/2004/02/skos/core#exactMatch",
           "termType": "NamedNode"
         },
         "conclusion": {
@@ -362,7 +362,7 @@
           "termType": "NamedNode"
         },
         "inference": {
-          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "value": "http://www.w3.org/2004/02/skos/core#exactMatch",
           "termType": "NamedNode"
         },
         "conclusion": {
@@ -376,7 +376,7 @@
           "termType": "NamedNode"
         },
         "inference": {
-          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "value": "http://www.w3.org/2004/02/skos/core#exactMatch",
           "termType": "NamedNode"
         },
         "conclusion": {
@@ -390,7 +390,7 @@
           "termType": "NamedNode"
         },
         "inference": {
-          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "value": "http://www.w3.org/2004/02/skos/core#exactMatch",
           "termType": "NamedNode"
         },
         "conclusion": {
@@ -404,7 +404,7 @@
           "termType": "NamedNode"
         },
         "inference": {
-          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "value": "http://www.w3.org/2004/02/skos/core#exactMatch",
           "termType": "NamedNode"
         },
         "conclusion": {
@@ -576,7 +576,7 @@
           "termType": "NamedNode"
         },
         "inference": {
-          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "value": "http://www.w3.org/2004/02/skos/core#closeMatch",
           "termType": "NamedNode"
         },
         "conclusion": { "value": "Firefox", "termType": "Literal" }
@@ -587,7 +587,7 @@
           "termType": "NamedNode"
         },
         "inference": {
-          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "value": "http://www.w3.org/2004/02/skos/core#closeMatch",
           "termType": "NamedNode"
         },
         "conclusion": { "value": "Internet Explorer", "termType": "Literal" }
@@ -598,7 +598,7 @@
           "termType": "NamedNode"
         },
         "inference": {
-          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "value": "http://www.w3.org/2004/02/skos/core#closeMatch",
           "termType": "NamedNode"
         },
         "conclusion": { "value": "Chrome", "termType": "Literal" }
